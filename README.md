@@ -27,4 +27,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jackhawks/dev-helper&type=Date)](https://star-history.com/#jackhawks/dev-helper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=jackhawks/dev-kits&type=Date)](https://star-history.com/#jackhawks/dev-kits&Date)
